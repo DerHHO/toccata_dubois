@@ -1193,9 +1193,9 @@ lHTeilIADuboisToccata = \relative d {
     <ais fis> <fis' ais,>[ <fis b,> <fis e>] |
     <fis d> <fis ais,>[ <fis b,> <fis e>] |
     <fis d> q r \clef "treble" <b d,>8 |
-    <b e,> <b d,> r <a cis> |
+    <b e,> <b d,> r <a cis,> |
     <a d,> <a cis,> r <g b,> | \mBreak
-    <g cis,>8 <g b,> r <fis ais> |
+    <g cis,>8 <g b,> r <fis ais,> |
     <fis b,> q r \clef "bass" <fis b, a> |
     r <fis b, gis> r <eis b g> |
     <fis d b fis> r <e cis fis,> r |
@@ -1494,7 +1494,7 @@ metronomZeileDuboisToccata = \drummode {
 
 
 
-%{Arbeitspartitur
+%***Arbeitspartitur
 #(set-global-staff-size 14)
 \book {
   \bookOutputName "DuboisToccata-Arbeitspartitur"
@@ -1510,4 +1510,4 @@ metronomZeileDuboisToccata = \drummode {
 }
 
 
-Arbeitspartitur%}
+%Arbeitspartitur***
